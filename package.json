@@ -1,0 +1,22 @@
+{
+  "name": "rtmpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illuspas/Node-Media-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/illuspas/Node-Media-Server/issues"
+  },
+  "homepage": "https://github.com/illuspas/Node-Media-Server#readme",
+  "dependencies": {
+    "node-media-server": "^2.1.2"
+  }
+}

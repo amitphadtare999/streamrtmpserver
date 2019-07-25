@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91da7149-5dae-44d1-b371-b6a698e7288a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/controllers/relay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/controllers/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/controllers/streams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/relay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/routes/streams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/certificate.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/certrequest.csr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_core_amf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_core_av.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_core_bitop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_core_ctx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_core_logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_core_utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_flv_session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_http_server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_media_server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_relay_server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_relay_session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_rtmp_client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_rtmp_handshake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_rtmp_server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_rtmp_session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_trans_server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_trans_session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privatekey.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/css/2.ceb657f8.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/css/main.a08da4e0.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/js/2.8cb41161.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/js/main.4071166f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/js/runtime~main.c5541365.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_genAuth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_rtmp_client.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/rtmpserver.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="728" />
+    <option name="y" value="46" />
+    <option name="width" value="857" />
+    <option name="height" value="854" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rtmpserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rtmpserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91da7149-5dae-44d1-b371-b6a698e7288a" name="Default Changelist" comment="" />
+      <created>1564049214881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564049214881</updated>
+      <workItem from="1564049224947" duration="2325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2325000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966888" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3994638" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
